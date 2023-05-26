@@ -6,5 +6,6 @@ Messing around with Python and databases
 - Python as a back-end
   - Flask
 - PostgreSQL
+- Flyway for migrations
 - Docker/Docker-compose
 - Machine learning
